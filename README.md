@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ali-Altamimi/SDAIA_Natural_Language_Processing">
-    <img src="https://thumbs.dreamstime.com/t/banner-shoulder-x-ray-blue-tone-part-rib-130883110.jpg" alt="💻 Logo">
+    <img src="https://thumbs.dreamstime.com/t/banner-shoulder-x-ray-blue-tone-part-rib-130883110.jpg" width=100% alt="💻 Logo">
   </a>
 
   <h3 align="center">IMDB Reviews NLP Classification</h3>
