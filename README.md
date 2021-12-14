@@ -24,8 +24,7 @@ COVID-19 has caused many hospitals to be overcrowded and taken many lives worldw
 
 
 ## Dataset
--  [IMDb]()
--  [Twitter]()
+-  [X-Ray Images](https://www.kaggle.com/andyczhao/covidx-cxr2/)
 
 # Contributors
 -  Ali Altamimi
