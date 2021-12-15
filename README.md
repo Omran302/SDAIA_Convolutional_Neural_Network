@@ -1,9 +1,5 @@
 
-[![GitHub forks](https://badgen.net/github/forks/Ali-Altamimi/SDAIA_Convolutional_Neural_Network/)](https://github.com/Ali-Altamimi/SDAIA_Convolutional_Neural_Network/)
-[![GitHub issues](https://badgen.net/github/issues/Ali-Altamimi/SDAIA_Convolutional_Neural_Network/)](https://GitHub.com/Ali-Altamimi/SDAIA_Convolutional_Neural_Network/)
-
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://github.com/Ali-Altamimi/SDAIA_Natural_Language_Processing">
     <img src="https://thumbs.dreamstime.com/t/banner-shoulder-x-ray-blue-tone-part-rib-130883110.jpg" width=100% alt="💻 Logo">
@@ -16,17 +12,17 @@ COVID-19 has caused many hospitals to be overcrowded and taken many lives worldw
 </p>
 </p>
 
-# Documents
+## Documents 📚
 - [Proposal](./doc/Proposal.ipynb)
 - [Presentation](./doc/Presentation.pdf)
 - [Report](./doc/Report.pdf)
 
 
 
-## Dataset
+## Resources 📓
 -  [X-Ray Images](https://www.kaggle.com/andyczhao/covidx-cxr2/)
 
-# Contributors
+## Contributors 👨‍💻
 -  Ali Altamimi
 <p align="left">
   &emsp;
